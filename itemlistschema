@@ -1,0 +1,42 @@
+<script type="application/ld+json">
+{
+	"@context": "http://schema.org/",
+	"@type": "ItemList",
+		"description":"This is one of the most widely read and influential marketing books of all time because you get such a clear and concise education on the most essential principles that make up the foundation of modern marketing.",
+		"image":"https://jenkinsjames.com/wp-content/uploads/2020/09/Scientific-Advertising-by-Claude-C.-Hopkins-622x1024.jpg",
+		"name":"Scientific Advertising by Claude C. Hopkins",
+		"potentialAction":"Buy Now",
+		"url":"https://jenkinsjames.com/blog/marketing/must-read-marketing-books/"
+   }  
+        },{
+        	"@type": "ItemList",
+		"description":"Written by one of the most successful marketers of all time, this is an easy-to-read and interesting book that’s packed with over 220 images and visual examples of how to write a high-performing, direct-response-style ad.",
+		"image":"https://jenkinsjames.com/wp-content/uploads/2020/09/Ogilvy-on-Advertising-by-David-Ogilvy-775x1024.jpg",
+		"name":"Ogilvy on Advertising by David Ogilvy",
+		"potentialAction":"Buy Now",
+		"url":"https://jenkinsjames.com/blog/marketing/must-read-marketing-books/"
+       }  
+        },{
+        	"@type": "ItemList",
+		"description":"This book was published in 1963, a full 20 years before Ogilvy’s other famous advertising manual. It also has more of a memoir feel to it, whereas Ogilvy on Advertising reads like a more straightforward how-to book.",
+		"image":"https://jenkinsjames.com/wp-content/uploads/2020/09/Confessions-of-an-Advertising-Man-by-David-Ogilvy-679x1024.jpg",
+		"name":"Confessions of an Advertising Man by David Ogilvy",
+		"potentialAction":"Buy Now",
+		"url":"https://jenkinsjames.com/blog/marketing/must-read-marketing-books/"
+       }  
+        },{
+        	"@type": "ItemList",
+		"description":"Every aspiring marketer or copywriter should read it. However, it’s out-of-print, and a used copy will probably cost you at least a few hundred bucks, but it’s well worth the investment if you implement the insights you learn.",
+		"image":"https://jenkinsjames.com/wp-content/uploads/2020/09/Breakthrough-Advertising-by-Eugene-M.-Schwartz-768x1024.jpg",
+		"name":"Breakthrough Advertising by Eugene M. Schwartz",
+		"potentialAction":"Buy Now",
+		"url":"https://jenkinsjames.com/blog/marketing/must-read-marketing-books/"
+ 
+ 
+ 
+ 
+ 
+ }  
+        }]
+    }
+/script
